@@ -1,0 +1,42 @@
+<div class="preview" >
+ <div class="previewsecondLevel">Try it myself</div>
+ <p class="preview">Hello World</p>
+</div>
+<div class="preview2">
+ <div class="preview2secondLevel">Try it myself with <br> more style element</div>
+ <p class="preview2">Hello World</p>
+</div>
+<style>
+	
+         .preview{
+          background :#FFD700;
+          font-family:"Times New Roman"
+          }
+	
+         .previewsecondLevel{
+          color:blue;
+          font-size:1.875em;
+          }
+	
+          p.preview{
+          color: white; 
+          font-size:1.875em;
+          }
+	
+         .preview2 {
+          background: #00CC99;
+          font-weight:1000;
+          }
+	
+         .preview2secondLevel{
+          color:#303030;
+          font-weight:800;
+          font-size:1.875em;
+          }
+	
+          p.preview2{
+          font-size:1.975em;
+          color:white;
+          }
+	
+</style>
